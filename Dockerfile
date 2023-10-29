@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER "Vaidehi Nanivadekar"
+MAINTAINER "Chinmay Katdare"
 RUN apt-get update -y
 RUN apt-get install nginx -y
 EXPOSE 80
